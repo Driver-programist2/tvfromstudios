@@ -562,6 +562,8 @@ https://rec102.24h.tv/hlsjwt/e7670710c4e11867491e1d648012722db119983a-8641-0-24h
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/europaplus.png" group-title="Музыкальное",Europa Plus TV
 http://46.32.176.50/europaplus/index.m3u8
+#EXTINF:-1 tvg-id="viva-russia-hd" tvg-logo="https://viva-russia.ru/wp-content/uploads/2021/01/my-logo-viva-e1611501083360.png" group-title="Музыкальное",VIVA Russia HD
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=qP8QEB_Ni4Kis6RevUtZvQ&e=2075461502&scheme=https
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/18/40/fw6.png" group-title="Музыкальное",MCM Top
 http://46.32.176.50/mcmtop/index.m3u8
 #EXTINF:-1 tvg-id="vostok-tv" tvg-logo="https://iptvx.one/picons/vostok-tv.png" group-title="Музыкальное",Восток ТВ
@@ -756,10 +758,8 @@ https://flussonic.mkpnet.ru/tv-297099e2d5179304/video.m3u8
 #EXTINF:-1 tvg-id="faishon-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Fashion_tv_hd.png" group-title="Развлекательное",Fashion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://stream8.cinerama.uz/1053/mono.m3u8
-#EXTINF:-1 tvg-id="viva-russia-hd" tvg-logo="https://viva-russia.ru/wp-content/uploads/2021/01/my-logo-viva-e1611501083360.png" group-title="Музыкальное",VIVA Russia HD
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=qP8QEB_Ni4Kis6RevUtZvQ&e=2075461502&scheme=https
 #EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/images/ch4dj8rmhk079s3jpj90.png" group-title="Развлекательное",World Faishon Channel
-https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
+https://bl.rutube.ru/livestream/ee6a3d5ba98066c2aaace3c428a3170c/index.m3u8?s=WFKz9xH3CdVn3IS_ARqdEg&e=2089675946&scheme=https
 #EXTINF:-1 tvg-id="insight-uhd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/9/9b/Insight_TV_%282020%29.png/revision/latest?cb=20220116092323&path-prefix=ru" group-title="Развлекательное",Insight TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://stream8.cinerama.uz/1416/mono.m3u8
