@@ -253,7 +253,7 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://ntvplus.tv/files/image/07/68/02/cdn.png" group-title="Фильмы и сериалы",Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9OPMLE.png" group-title="Фильмы и сериалы",Феникс+ Кино
-http://45.151.62.28:8081/iptv/feniks-plus-kino-channel/chunks.m3u8?nimblesessionid=30501&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI2IDI6NDc6MTYgUE0maGFzaF92YWx1ZT0wblJ4ZU93WmllQzNTdExOVXlBYlp3PT0mdmFsaWRtaW51dGVzPTIw
+https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-id="viju-tv1000-russkoe" tvg-logo="http://magtv.top/img/tv1000rus.jpg" group-title="Фильмы и сериалы",TV1000 Русское кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://stream8.cinerama.uz/1059/mono.m3u8
