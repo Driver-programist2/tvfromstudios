@@ -471,7 +471,7 @@ https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=-5
 #EXTINF:-1 tvg-id="multimuzika" tvg-logo="https://avatars.mds.yandex.net/get-ott/224348/2a0000017c17136622dfd1893d6cef481f25/orig" group-title="Детское",Мультимузыка
 http://31.210.208.171:8080/mult_i_muzika/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="multilandiya" tvg-logo="https://smotret-tv.live/images/multilandiya.png" group-title="Детское",Мультиландия
-http://31.210.208.171:8080/multilandiya/index.m3u8?token=+W2MSER
+https://bl.rutube.ru/livestream/6947be59fd96d84b978d8a831f82bc30/index.m3u8?s=Hw8SwqGv3mb6Kb_gO0w1Ag&e=2089671886&scheme=https
 #EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://prod-s.cdn-cf.philo.com/images/channel_logos/NIKHD/large_white.png" group-title="Детское",Nickelodeon
 https://stream8.cinerama.uz/1500/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/pingvin_lolo_obychnyy_0_0.png" group-title="Детское",Пингвин Лоло
@@ -566,6 +566,7 @@ http://46.32.176.50/europaplus/index.m3u8
 http://46.32.176.50/mcmtop/index.m3u8
 #EXTINF:-1 tvg-id="vostok-tv" tvg-logo="https://iptvx.one/picons/vostok-tv.png" group-title="Музыкальное",Восток ТВ
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/18/40/fw6.png" group-title="Музыкальное",
 #EXTINF:-1 tvg-logo="https://muz.tv-soyuz.ru/images/logo.png" group-title="Музыкальное",МузСоюз
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7uLo50AuhagWbMdZl-DAz4oFVXnBplqOieNW_YEHwpJNz1XS3oNp_Lso&s=10" group-title="Музыкальное",ТЕСТ 256
