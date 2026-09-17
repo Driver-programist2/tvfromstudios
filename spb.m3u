@@ -314,7 +314,7 @@ https://fs.uplink.kz/perec/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="tvoyo-tv" tvg-logo="https://yootv.host/images/logo-channel/tvoe-tv.png" group-title="Развлекательное",Твоё ТВ HD
 https://tvoetv.space/tvoetv/mono.m3u8
 #EXTINF:-1 tvg-id="o2tv" tvg-logo="https://telik.live/images/o2tv.png" group-title="Развлекательное",О!2
-http://77.232.131.211/O2TV/index.m3u8
+http://31.210.208.171:8080/o2/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="360.ru" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/c14/gk7r2lelk5itjjillnrzv3ovsec0zzff/160_160_1/000000297.png" group-title="Развлекательное",360
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 #EXTINF:-1 group-title="Развлекательное" tvg-id="rus-hualiang-tv" tvg-logo="https://smotret.tv/images/kitay-tv.jpg",Китай ТВ HD
@@ -461,7 +461,7 @@ https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=lK
 http://46.32.176.50/detskiymir/index.m3u8
 #EXTINF:-1 tvg-id="mama" tvg-logo="https://www.cableman.ru/sites/default/files/mama.png" group-title="Детское",Мама
 http://31.210.208.171:8080/mama/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="unikum" tvg-logo="https://tvnews.by/uploads/posts/2019-12/1576616446_un.png" group-title="Детское",Уникум
+#EXTINF:-1 tvg-id="unikum" tvg-logo="https://ntvplus.tv/files/image/12/01/937/x2a.png" group-title="Детское",Детский
 http://46.32.176.50/detskiy/index.m3u8
 #EXTINF:-1 tvg-id="rijy" tvg-logo="https://static.tildacdn.com/tild6363-3733-4639-a231-613631336539/73.png" group-title="Детское",Рыжий
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
