@@ -461,13 +461,13 @@ https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=lK
 http://46.32.176.50/detskiymir/index.m3u8
 #EXTINF:-1 tvg-id="mama" tvg-logo="https://www.cableman.ru/sites/default/files/mama.png" group-title="Детское",Мама
 http://31.210.208.171:8080/mama/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="unikum" tvg-logo="https://ntvplus.tv/files/image/12/01/937/x2a.png" group-title="Детское",Детский
-http://46.32.176.50/detskiy/index.m3u8
+#EXTINF:-1 tvg-id="detskiy" tvg-logo="https://ntvplus.tv/files/image/12/01/937/x2a.png" group-title="Детское",Детский
+https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=-575cW7aACCSx1oUt9iheQ&e=2089671711&scheme=https
 #EXTINF:-1 tvg-id="rijy" tvg-logo="https://static.tildacdn.com/tild6363-3733-4639-a231-613631336539/73.png" group-title="Детское",Рыжий
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://stream8.cinerama.uz/1407/mono.m3u8
 #EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3b/Cartoon_Network_HD_Châu_Âu_logo_2011.png/revision/latest?cb=20220225031734&path-prefix=vi" group-title="Детское",Cartoon Network
-http://45.132.87.69:8080/cartoon_network/index.m3u8
+https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=-575cW7aACCSx1oUt9iheQ&e=2089671711&scheme=https
 #EXTINF:-1 tvg-id="multimuzika" tvg-logo="https://avatars.mds.yandex.net/get-ott/224348/2a0000017c17136622dfd1893d6cef481f25/orig" group-title="Детское",Мультимузыка
 http://31.210.208.171:8080/mult_i_muzika/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="multilandiya" tvg-logo="https://smotret-tv.live/images/multilandiya.png" group-title="Детское",Мультиландия
