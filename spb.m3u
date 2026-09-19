@@ -201,6 +201,7 @@ http://31.210.208.171:8080/mosfilm/index.m3u8?token=+W2MSER
 https://stream8.cinerama.uz/1060/mono.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000" tvg-logo="https://ntvplus.tv/files/image/80/00/02/2qx.png" group-title="Фильмы и сериалы",viju TV1000 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://stream8.cinerama.uz/1058/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Романтичное HD
 http://89.33.29.115:8080/Semeynoe_HD/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Наше крутое HD
@@ -211,7 +212,6 @@ http://89.33.29.115:8080/Kino_premium_HD/mono.m3u8
 http://89.33.29.115:8080/Ostrosyuzhetnoe_HD/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Шокирующее
 http://89.33.29.115:8080/Kinopokaz_HD1/mono.m3u8
-https://stream8.cinerama.uz/1058/mono.m3u8
 #EXTINF:-1 tvg-id="viju-plus-serial" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/ea7/i3ra7jsr5d06yxlpzl5aa6kdqnnkbtfi/160_160_1/000004375.png" group-title="Фильмы и сериалы",viju+ Serial
 https://stream8.cinerama.uz/1224/mono.m3u8
 #EXTINF:-1 tvg-id="viju-plus-premiere" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/de8/l4z6pi72bv9zi0zyg3adjyvtpigff55u/160_160_1/000000868.png" group-title="Фильмы и сериалы",viju+ Premiere
