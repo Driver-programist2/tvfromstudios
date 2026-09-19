@@ -6,8 +6,8 @@ http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_1TV.m3u8
 #EXTINF:-1 tvg-id="Russia1" tvg-logo="https://ntvplus.tv/files/image/88/61/42/v4u.png" group-title="Общероссийские",Россия 1 HD
 https://live-gtrk.smotrim.ru/vgtrk/spb/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://toplogos.ru/images/logo-match-tv.png" group-title="Общероссийские",МАТЧ!
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/SPB/CH_MATCHTV.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://ntvplus.tv/files/image/88/63/54/fl9.png" group-title="Общероссийские",НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv-spb/playlist.m3u8
@@ -37,11 +37,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_STS.m3u8
 #EXTINF:-1 tvg-id="domashniy" tvg-logo="https://ramnet.ru/tv/logo/000000051.png" group-title="Общероссийские",Домашний
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/SPB/CH_DOMASHNIY.m3u8
 #EXTINF:-1 tvg-id="tv-3" tvg-logo="https://static.tildacdn.com/tild3430-6166-4030-b064-633436353262/TV-3_LOGO.png" group-title="Общероссийские",ТВ3
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/SPB/CH_TV3.m3u8
 #EXTINF:-1 tvg-id="pyatnica" tvg-logo="https://vits.tv/images/tvstation/russia/pyatnica.png" group-title="Общероссийские",Пятница!
 #EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_FRIDAY.m3u8
