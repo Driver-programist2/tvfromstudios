@@ -379,6 +379,8 @@ https://stream8.cinerama.uz/1411/mono.m3u8
 http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.media.24h.tv/img/ch/34/38/3438673def778f28763aa31dc3fca318.png?w=408&format=webp" tvg-logo="viju+ Planet" group-title="Познавательное",viju+ Planet
 http://195.64.140.147:10147/147
+#EXTINF:-1 group-title="Позновательное",Кто есть кто
+http://31.210.208.171:8080/kto_est_kto/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="zoo-tv" tvg-logo="http://magtv.top/img/telezoo.jpg" group-title="Познавательное",Зоо ТВ
 https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-logo="https://dikoe.tv/media/zoo/images/telekanal_dikiy_86ecf0dda585a1f6dc7493a4cff2b06c.jpg" tvg-name="Дикий" group-title="Познавательное",Дикий Охота и рыбалка
@@ -389,6 +391,12 @@ https://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://ramnet.ru/tv/logo/000002759.png" group-title="Познавательное",НТВ Право
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1 group-title="Познавательное",365 дней
+https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Познавательное",Лапки Live
+https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Познавательное",Мужской
+https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Познавательное",Охота и рыбалка
 https://stream8.cinerama.uz/1038/mono.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://www.cableman.ru/sites/default/files/logo_myplanet_color_text_1.png" group-title="Познавательное",Моя планета HD
@@ -421,6 +429,8 @@ https://stream8.cinerama.uz/1413/mono.m3u8
 https://stream8.cinerama.uz/1222/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/discovery.jpg" group-title="Познавательное",Discovery Channel HD
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 tvg-name="Диалоги о Рыбалке" group-title="Познавательное",Диалоги о рыбалке HD
+http://stream.mcquack.net/264/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1a1
 #EXTINF:-1 tvg-id="eda-premium" tvg-name="Еда Премиум" tvg-logo="https://telik.live/images/foodtime.png" group-title="Познавательное",Food Time
 http://89.33.29.115:8080/Eda/mono.m3u8
 #EXTINF:-1 tvg-id="zagorodnaya-jizn" tvg-logo="https://static.tildacdn.com/tild3466-3338-4531-b264-666537323566/-emblem-small.png" group-title="Познавательное",Загородная жизнь
