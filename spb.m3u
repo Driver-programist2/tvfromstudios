@@ -609,7 +609,7 @@ http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 #EXTINF:-1 tvg-name="ММТВ" tvg-logo="https://ntvplus.tv/files/image/01/18/40/fw6.png" group-title="Музыкальное",Музыка Мода ТВ (ММТВ)
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=XJDOPsa7DXtPnQ6uc784Qw&e=2089672187&scheme=https
 #EXTINF:-1 tvg-name="Song TV Armenia" tvg-logo="https://images.restream-media.net/images/ch4dl03mhk079s3jprf0.png" group-title="Музыкальное",SONG TV ARMENIA HD
-https://songtv.hls.iptvdc.com/web-armenia/low/playlist.m3u8
+https://songtv.hls.iptvdc.com/web-armenia/playlist.m3u8
 #EXTINF:-1 tvg-name="Song TV Russia" tvg-logo="https://images.restream-media.net/images/ch4dkvbmhk079s3jprdg.png" group-title="Музыкальное",Song TV Russia HD
 https://songtv.hls.iptvdc.com/web-russia/lhigh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://muz.tv-soyuz.ru/images/logo.png" group-title="Музыкальное",МузСоюз
