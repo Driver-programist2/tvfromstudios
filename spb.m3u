@@ -88,6 +88,8 @@ https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=Nh
 http://46.32.176.50/poexali/index.m3u8
 #EXTINF:-1 tvg-id="krasnayaliniya" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/914/7wrik76ezylt7ealp7d9awq5pqjru682/160_160_1/000001468.png" group-title="Фильмы и сериалы",Красная линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/mono.m3u8
+#EXTINF:-1 group-title="Познавательное" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/28666/logo_256.png",Плюс минус 16
+https://bl.rutube.ru/livestream/99d4597cea881a27cf7dd6e65a74dade/index.m3u8?s=9o-7LS-qb-guCNZ3Ni9_-g&e=2090404641&scheme=https
 #EXTINF:-1 tvg-id="1tv" tvg-name="Первый канал" tvg-logo="https://tv.rambler.ru/epg/logo/000004388.png",Первый канал Европа
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.goodstream.icu/live/210-req_offset_28000000.m3u8
