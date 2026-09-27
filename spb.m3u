@@ -209,11 +209,11 @@ https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png
 #EXTINF:-1 group-title="Фильмы и сериалы",Наше крутое HD
 https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 group-title="Фильмы и сериалы",Премиальное HD
-http://89.33.29.115:8080/Kino_premium_HD/mono.m3u8
+https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 group-title="Фильмы и сериалы",Остросюжетное HD
-http://89.33.29.115:8080/Ostrosyuzhetnoe_HD/mono.m3u8
+https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 group-title="Фильмы и сериалы",Шокирующее
-http://89.33.29.115:8080/Kinopokaz_HD1/mono.m3u8
+https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-id="viju-plus-serial" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/ea7/i3ra7jsr5d06yxlpzl5aa6kdqnnkbtfi/160_160_1/000004375.png" group-title="Фильмы и сериалы",viju+ Serial
 https://stream8.cinerama.uz/1224/mono.m3u8
 #EXTINF:-1 tvg-id="viju-plus-premiere" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/de8/l4z6pi72bv9zi0zyg3adjyvtpigff55u/160_160_1/000000868.png" group-title="Фильмы и сериалы",viju+ Premiere
@@ -307,7 +307,7 @@ http://31.210.208.171:8080/kuhnya/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="anekdot-tv" tvg-logo="https://www.anekdottv.tv/upload/iblock/57c/57ccb3041375893cf583e73cf2a10d87.png" group-title="Развлекательное",Анекдот ТВ
 https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-id="sony-red" tvg-logo="https://smotret-tv.live/images/red-kanal.png" group-title="Развлекательное",.red HD
-http://89.33.29.115:8080/SET/mono.ts.m3u8
+http://stream.mcquack.net/69/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="kaleydaskop-tv" tvg-logo="https://www.oreol.tv/img/news/1234.png" group-title="Развлекательное",Калейдоскоп ТВ
 http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/index.m3u8
 #EXTINF:-1 tvg-id="drive-tv" tvg-logo="https://smotret-tv.live/images/drajv.png" group-title="Развлекательное",Драйв
@@ -338,7 +338,7 @@ https://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://stream8.cinerama.uz/1423/mono.m3u8
 #EXTINF:-1 tvg-id="perviy-vegetarianskiy" tvg-logo="https://karnei4.github.io/convert/logo-z/63f3bfdb7b7a0a415d34cd267ab0bc24.png" group-title="Развлекательное",Первый вегетарианский
-https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
+http://185.195.184.30:8000/play/a0ks/index.m3u8
 #EXTINF:-1 tvg-id="eda" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032929595611_57.png" group-title="Развлекательное",Еда
 https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-id="teledom" tvg-logo="https://vits.tv/images/tvstation/russia/teledom.png" group-title="Развлекательное",ТелеДом
@@ -346,7 +346,7 @@ https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="zhara" tvg-logo="https://podarokangelu.com/uploads/smi/logo/63052947be0b9424298005.png" group-title="Развлекательное" group-title="Музыкальное",ЖАРА
 https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
 #EXTINF:-1 tvg-id="russian-extreme" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/b2c/h8s9jrh2ibt3t5ap83l7fp47n7zkscaw/160_160_1/000000103.png" group-title="Развлекательное",Russian Extreme
-http://89.33.29.115:8080/Russkiy_ekstrim/mono.m3u8
+https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-id="neizvestnaya-rossiya" tvg-logo="https://www.gazprom-media.com/storage/uploads/channel/logo_hover/0/8/747/8747/46b698b722a2b4940ecfaa0a4c84d3f6.png" group-title="Познавательное",Неизвестная Россия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
@@ -359,15 +359,15 @@ https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv
 http://46.32.176.50/Vremya/index.m3u8
 #EXTINF:-1 tvg-id="doktor-tv" tvg-logo="https://yootv.host/images/logo-channel/doctor-tv.png" group-title="Познавательное",Доктор
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://89.33.29.115:8080/24Dok/mono.m3u8
+http://195.26.83.96:7009/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="nauka-2.0" tvg-logo="https://www.cableman.ru/sites/default/files/nauka_0.png" group-title="Познавательное",Наука 2.0
 #EXTVLCOPT:http-user-agent=IPTV
-http://89.33.29.115:8080/Nauka_2.0/mono.m3u8
+http://46.32.176.50/nauka/index.m3u8
 #EXTINF:-1 tvg-id="istoriya" tvg-logo="https://ramnet.ru/tv/logo/000000635.png" group-title="Познавательное",История
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://stream8.cinerama.uz/1266/mono.m3u8
-#EXTINF:-1 group-title="Познавательное",Big Planet
-https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Познавательное",Big Planet HD
+http://46.32.176.50/bigplanet/index.m3u8
 #EXTINF:-1 tvg-id="bolshaya-aziya" tvg-logo="https://ramnet.ru/tv/logo/000003175.png" group-title="Познавательное",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.ts.m3u8
 #EXTINF:-1 tvg-id="soyuz" tvg-logo="https://ramnet.ru/tv/logo/000000255.png" group-title="Познавательное",Союз HD
@@ -405,11 +405,11 @@ https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
 https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Познавательное",Охота и рыбалка
 https://stream8.cinerama.uz/1038/mono.m3u8
-#EXTINF:-1 group-title="Познавательное" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10135/logo_256_1660809965.png",Центральное ТВ
+#EXTINF:-1 group-title="Познавательное" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10135/logo_256_1660809965.png",ЦТВ
 https://bl.rutube.ru/livestream/d751dcb6c61658ec76461bc166d6e529/index.m3u8?s=IX1mCCuq64wpkXwgxDqLSw&e=2089930670&scheme=https
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://www.cableman.ru/sites/default/files/logo_myplanet_color_text_1.png" group-title="Познавательное",Моя планета HD
 http://185.46.16.239:8000/Planeta_HD
-#EXTINF:-1 group-title="Познавательное" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10147/logo_256_1658737300.png", Пес и Ко
+#EXTINF:-1 group-title="Познавательное" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10147/logo_256_1658737300.png",Пес и Ко
 http://31.210.208.171:8080/pes_i_ko/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-name="Top Secret" tvg-logo="https://www.cableman.ru/sites/default/files/topsecret.png" group-title="Познавательное",Совершенно секретно
 #EXTVLCOPT:http-referrer=https://sovsekretno.tv/
@@ -429,14 +429,14 @@ https://stream8.cinerama.uz/1045/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://stream8.cinerama.uz/1046/mono.m3u8
 #EXTINF:-1 tvg-id="rtg-hd" tvg-logo="https://cdn-b2c.dom.ru/epg/chbiglogo/1587711809.png" group-title="Познавательное",Russian Travel Guide HD
-http://stream.mcquack.net/164/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 tvg-logo="https://dikoe.tv/media/zoo/images/dikiy_ef3cbfbbd6890867d9d8c68cb80de601.jpg" group-title="Познавательное",Дикая охота
-https://stream8.cinerama.uz/1412/mono.m3u8
-#EXTINF:-1 tvg-logo="https://dikoe.tv/media/zoo/images/dikaya_rybalka_67e1f184a6100031eebd08fa2d03d867.jpg" group-title="Познавательное",Дикая рыбалка
+http://stream.mcquack.net/164/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1a1
+#EXTINF:-1 tvg-logo="https://dikoe.tv/media/zoo/images/dikiy_ef3cbfbbd6890867d9d8c68cb80de601.jpg" group-title="Познавательное",Дикая охота HD
+http://185.195.184.30:8000/play/a0ke/index.m3u8
+#EXTINF:-1 tvg-logo="https://dikoe.tv/media/zoo/images/dikaya_rybalka_67e1f184a6100031eebd08fa2d03d867.jpg" group-title="Познавательное",Дикая рыбалка HD
 http://stream.mcquack.net/275/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #EXTINF:-1 tvg-id="ohotnik-i-pybolov" tvg-logo="https://www.cableman.ru/sites/default/files/ohotnikirybolov_0.png" group-title="Познавательное",Охотник и рыболов
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://stream8.cinerama.uz/1413/mono.m3u8
+http://195.64.140.147:10162/162
 #EXTINF:-1 tvg-id="tochka-rf" tvg-logo="https://www.nicepng.com/png/full/284-2843034_source-national-geographic-logo-white.png" group-title="Познавательное",Точка РФ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://stream8.cinerama.uz/1222/mono.m3u8
@@ -449,7 +449,7 @@ http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:-1 tvg-name="Диалоги о Рыбалке" group-title="Познавательное",Диалоги о рыбалке HD
 http://stream.mcquack.net/264/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1a1
 #EXTINF:-1 tvg-id="eda-premium" tvg-name="Еда Премиум" tvg-logo="https://telik.live/images/foodtime.png" group-title="Познавательное",Food Time
-http://89.33.29.115:8080/Eda/mono.m3u8
+https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-id="zagorodnaya-jizn" tvg-logo="https://static.tildacdn.com/tild3466-3338-4531-b264-666537323566/-emblem-small.png" group-title="Познавательное",Загородная жизнь
 http://31.210.208.171:8080/zagorodnaya_zhizn/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="priklucheniya-hd" tvg-logo="https://yootv.host/images/logo-channel/priklyucheniya-tv.png" group-title="Познавательное",Приключения
