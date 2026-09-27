@@ -418,7 +418,7 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.ts.m3u8
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000000253.png" group-title="Познавательное",Союзный
 https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=lMIiy2OqGAFzcrpyemCPRQ&e=2076626573&scheme=https
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/zagorodnyy_0.png" group-title="Позновательное",Загородный International
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/zagorodnyy_0.png" group-title="Познавательное",Загородный International
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=SOPQD08km4qu4lNfkuZf5A&e=2089889507&scheme=https
 #EXTINF:-1 tvg-id="sony-black" tvg-logo="https://smotret-tv.live/images/black-kanal.png" group-title="Познавательное",.black HD
 http://stream.mcquack.net/263/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1a1
@@ -429,7 +429,7 @@ https://stream8.cinerama.uz/1411/mono.m3u8
 http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.media.24h.tv/img/ch/34/38/3438673def778f28763aa31dc3fca318.png?w=408&format=webp" tvg-logo="viju+ Planet" group-title="Познавательное",viju+ Planet HD
 http://195.64.140.147:10147/147
-#EXTINF:-1 group-title="Позновательное",Кто есть кто
+#EXTINF:-1 group-title="Познавательное",Кто есть кто
 http://31.210.208.171:8080/kto_est_kto/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="zoo-tv" tvg-logo="http://magtv.top/img/telezoo.jpg" group-title="Познавательное",Зоо ТВ
 https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
@@ -492,10 +492,16 @@ https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=z2
 https://stream8.cinerama.uz/1415/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",TVM Channel
 http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательное",Наша Сибирь
+https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательное",Наша тема
+http://31.210.208.171:8080/nasha_tema/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/discovery.jpg" group-title="Познавательное",Discovery Channel HD
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:-1 tvg-name="Диалоги о Рыбалке" group-title="Познавательное",Диалоги о рыбалке HD
 http://stream.mcquack.net/264/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1a1
+#EXTINF:-1 group-title="Познавательное",The Explorers
+http://stream.mcquack.net/450/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="eda-premium" tvg-name="Еда Премиум" tvg-logo="https://telik.live/images/foodtime.png" group-title="Познавательное",Food Time
 https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-id="zagorodnaya-jizn" tvg-logo="https://static.tildacdn.com/tild3466-3338-4531-b264-666537323566/-emblem-small.png" group-title="Познавательное",Загородная жизнь
@@ -518,6 +524,8 @@ http://46.32.176.50/avtoplyus/index.m3u8
 http://85.192.24.253:8080/AA2126W/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",В Мире Животных HD
 http://stream.mcquack.net/241/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательное",Психология 21
+http://31.210.208.171:8080/psihologiya/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="tbn" tvg-logo="https://vits.tv/images/tvstation/russia/tbn.png" group-title="Познавательное",ТБН Россия
 https://5d23269b3ec0c.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://photoville.nyc/wp-content/uploads/2022/05/ng_2flush_blackyellow_rgb.png" group-title="Познавательное",National Geographic HD
@@ -767,6 +775,18 @@ http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/varian
 #EXTINF:-1 group-title="Региональное" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Губерния Самара
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
+#EXTINF:-1 group-title="Региональное" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНР 24 (Нижневартовск)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
+#EXTINF:-1 group-title="Региональное" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Эфир
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
+#EXTINF:-1 group-title="Региональное" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ЮТВ Чебоксары
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
+#EXTINF:-1 group-title="Региональное" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Якутия 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
 #EXTINF:-1 tvg-logo="https://smotret.tv/images/maydan.jpg" group-title="Региональное",Майдан
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8
@@ -787,6 +807,9 @@ https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
 #EXTINF:-1 tvg-logo="https://smotret.tv/images/tnv-planeta.jpg" group-title="Региональное",ТНВ-Планета
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
+#EXTINF:-1 group-title="Региональное" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНВ-Татарстан
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1 tvg-logo="https://mirbelogorya.ru/templates/bootstrap/images/logo-mb-circle.png" group-title="Региональное",Мир Белогорья
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
@@ -889,19 +912,19 @@ https://hls-01-regions.emgsound.ru/11_spb/112/playlist.m3u8
 https://hls-01-regions.emgsound.ru/15_spb/112/playlist.m3u8
 #EXTINF:-1 group-title="Радио",Детское радио 103.7 FM
 https://hls-01-gpm.hostingradio.ru/detifm495/128/playlist.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="pervy-pl2",Первый (+2)
+#EXTINF:-1 tvg-id="pervy-pl2",Первый (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="pervy-pl3",Первый (+3)
+#EXTINF:-1 tvg-id="pervy-pl3",Первый (+3)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="pervy-pl4",Первый (+4)
+#EXTINF:-1 tvg-id="pervy-pl4",Первый (+4)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="pervy-pl5",Первый (+5)
+#EXTINF:-1 tvg-id="pervy-pl5",Первый (+5)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="pervy-pl6",Первый (+6)
+#EXTINF:-1 tvg-id="pervy-pl6",Первый (+6)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-pl8",Первый (+8)
