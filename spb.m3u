@@ -458,9 +458,7 @@ http://31.210.208.171:8080/kto_est_kto/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="zoo-tv" tvg-logo="http://magtv.top/img/telezoo.jpg" group-title="Познавательное",Зоо ТВ
 https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-logo="https://dikoe.tv/media/zoo/images/telekanal_dikiy_86ecf0dda585a1f6dc7493a4cff2b06c.jpg" tvg-name="Дикий" group-title="Познавательное",Дикий Охота и рыбалка
-http://46.32.176.50/dikiy/index.
-#EXTINF:-1 group-title="Познавательное",ЛДПР ТВ
-https://flussonic.mkpnet.ru/tv-0a158c4925e60ceb/video.m3u8
+http://46.32.176.50/dikiy/index.m3u8
 #EXTINF:-1 tvg-id="ntv-stil" tvg-logo="https://cdn-b2c.dom.ru/epg/chlogo/1705582054.png" group-title="Познавательное",НТВ Стиль
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_style/playlist.m3u8
