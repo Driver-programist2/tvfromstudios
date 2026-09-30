@@ -517,7 +517,7 @@ https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=z2
 #EXTINF:-1 group-title="Познавательное",Первый Космический
 https://stream8.cinerama.uz/1415/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",TVM Channel
-http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
+http://cdn-01.bonus-tv.ru:80/tvm_edge/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Наша Сибирь
 https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Наша тема
@@ -525,23 +525,23 @@ http://31.210.208.171:8080/nasha_tema/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/discovery.jpg" group-title="Познавательное",Discovery Channel HD
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:-1 tvg-name="Диалоги о Рыбалке" group-title="Познавательное",Диалоги о рыбалке HD
-http://stream.mcquack.net/264/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1a1
+http://stream.mcquack.net/264/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Познавательное",The Explorers
 http://stream.mcquack.net/450/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="eda-premium" tvg-name="Еда Премиум" tvg-logo="https://telik.live/images/foodtime.png" group-title="Познавательное",Food Time
 https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-id="zagorodnaya-jizn" tvg-logo="https://static.tildacdn.com/tild3466-3338-4531-b264-666537323566/-emblem-small.png" group-title="Познавательное",Загородная жизнь
 http://31.210.208.171:8080/zagorodnaya_zhizn/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="priklucheniya-hd" tvg-logo="https://yootv.host/images/logo-channel/priklyucheniya-tv.png" group-title="Познавательное",Приключения
+#EXTINF:-1 tvg-id="priklucheniya-hd" tvg-logo="https://yootv.host/images/logo-channel/priklyucheniya-tv.png" group-title="Познавательное",Приключения HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://stream8.cinerama.uz/1420/mono.m3u8
+http://stream.mcquack.net/198/index.m3u8
 #EXTINF:-1 tvg-id="arsenal-hd" tvg-logo="https://1tvch.ru/storage/2025/09/16/5a82a396d3039b4f5baafff121e39ac2e5157f7f.png" group-title="Познавательное",Арсенал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://stream8.cinerama.uz/1414/mono.m3u8
 #EXTINF:-1 group-title="Познавательное" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26727/logo_256_1718620704.png",Мы
 https://bl.rutube.ru/livestream/ee431650738a594119c3516ceda72775/index.m3u8?s=7asoKdPp0IZW6Z9bu5rJqA&e=2089889525&scheme=https
 #EXTINF:-1 tvg-id="da-vinci" tvg-logo="https://vits.tv/images/tvstation/russia/da-vinci-ru.png" group-title="Познавательное",Da Vinci
-https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
+http://stream.mcquack.net/238/index.m3u8
 #EXTINF:-1 tvg-id="tass-live" tvg-logo="https://smotret-tv.live/images/tass.png" group-title="Познавательное",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="avto-24" tvg-logo="https://www.autoplustv.ru/wp-content/uploads/2021/03/favicon.png" group-title="Познавательное",Авто плюс
@@ -549,7 +549,7 @@ http://46.32.176.50/avtoplyus/index.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-logo="http://magtv.top/img/ocean.jpg" group-title="Познавательное",Ocean
 http://85.192.24.253:8080/AA2126W/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",В Мире Животных HD
-http://stream.mcquack.net/241/tracks-v1a1/mono.ts.m3u8
+http://stream.mcquack.net/241/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Психология 21
 http://31.210.208.171:8080/psihologiya/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="tbn" tvg-logo="https://vits.tv/images/tvstation/russia/tbn.png" group-title="Познавательное",ТБН Россия
@@ -609,7 +609,7 @@ https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Nickjr-logo.png" group-title="Детское",Nick Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://stream.mcquack.net/220/tracks-v1a1/mono.ts.m3u8
+http://stream.mcquack.net/220/index.m3u8
 #EXTINF:-1 group-title="Детское" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Шаян ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
@@ -622,7 +622,7 @@ https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/mamontenok_0.png" group-title="Детское",Мамонтёнок
 https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-id="jim-jam" tvg-logo="https://www.cableman.ru/sites/default/files/jimjam_0.png" group-title="Детское",JimJam
-http://stream.mcquack.net/150/tracks-v1a1/mono.ts.m3u8
+http://stream.mcquack.net/150/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids" tvg-logo="https://www.cableman.ru/sites/default/files/ctc_kids.png" group-title="Детское",СТС Kids
 http://iptv.mega.net.ru:8888/CTC_Kids/index.m3u8
 #EXTINF:-1 tvg-id="ducktv-hd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/31/Duck_TV.png/revision/latest/scale-to-width-down/250?cb=20170210045108&path-prefix=ru" group-title="Детское",DuckTV
@@ -667,7 +667,7 @@ https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=Co
 #EXTINF:-1 tvg-logo="https://bridgemedia.ru/s/uploads/bridge-tv-logo-1477995292.png" group-title="Музыкальное",Bridge TV
 http://31.210.208.171:8080/bridge/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-logo="https://static.okko.tv/images/v4/d89aa07e-652a-4f33-bd94-ed1346bc368a" group-title="Музыкальное",Bridge TV Русский хит
-http://195.64.140.147:10194/194
+http://stream.mcquack.net/320/index.m3u8
 #EXTINF:-1 tvg-logo="https://ip.ontivi.net/img/bridge-classic.png" group-title="Музыкальное",Bridge TV Classic
 http://31.210.208.171:8080/bridge_classic/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsmUBiGl25GKzw6C4lIHoogR_vDKx0qfJYIA&s" group-title="Музыкальное" audio-track="rus",Mezzo
@@ -697,15 +697,15 @@ https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=qP
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/18/40/fw6.png" group-title="Музыкальное",MCM Top
 http://46.32.176.50/mcmtop/index.m3u8
 #EXTINF:-1 group-title="Музыкальное",Classic Music
-http://stream.mcquack.net/312/tracks-v1a1/index.m3u8
+http://stream.mcquack.net/312/index.m3u8
 #EXTINF:-1 tvg-id="vostok-tv" tvg-logo="https://iptvx.one/picons/vostok-tv.png" group-title="Музыкальное",Восток ТВ
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 #EXTINF:-1 tvg-name="ММТВ" tvg-logo="https://forpress.ru/storage/press-releases/gallery/1785419695_6a6b57afab371.PNG" group-title="Музыкальное",Музыка Мода ТВ (ММТВ)
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=XJDOPsa7DXtPnQ6uc784Qw&e=2089672187&scheme=https
 #EXTINF:-1 tvg-name="Song TV Armenia" tvg-logo="https://images.restream-media.net/images/ch4dl03mhk079s3jprf0.png" group-title="Музыкальное",SONG TV ARMENIA HD
-https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
+https://songtv.hls.iptvdc.com/web-armenia/playlist.m3u8
 #EXTINF:-1 tvg-name="Song TV Russia" tvg-logo="https://images.restream-media.net/images/ch4dkvbmhk079s3jprdg.png" group-title="Музыкальное",Song TV Russia HD
-https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://muz.tv-soyuz.ru/images/logo.png" group-title="Музыкальное",МузСоюз
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.restream-media.net/images/ch4djijmhk079s3jpkp0.png" group-title="Музыкальное",AIVA
