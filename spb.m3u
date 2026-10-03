@@ -144,7 +144,7 @@ http://stream.mcquack.net/266/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/Без%20фона.png" group-title="Фильмы и сериалы",Киноман
 http://31.210.208.171:8080/kinoman/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="kino24" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a6/Kino_24.png/revision/latest?cb=20160719101653&path-prefix=ru" group-title="Фильмы и сериалы",Kino24
-http://192.162.64.99:5200/play/a01w/index.m3u8
+http://hls.peers.tv/streaming/kino24/126/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=81
 #EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://epg.iptvx.one/picons/amedia-hit.png" group-title="Фильмы и сериалы",Amedia Hit
 https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="start-air" tvg-logo="https://www.cableman.ru/sites/default/files/Start_Air_LOGO_telekanal.png" group-title="Фильмы и сериалы",Start Air
@@ -259,7 +259,7 @@ http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-logo="https://epg.iptvx.one/picons/hollywood-hd.png" group-title="Фильмы и сериалы",Hollywood HD
 http://stream.mcquack.net/268/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/pro100tv.png" group-title="Фильмы и сериалы",Про100 ТВ
-https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
+http://hls.peers.tv/streaming/pro100/126/copy_4_3/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=81
 #EXTINF:-1 tvg-id="kinomix-nastroykino" tvg-logo="https://tv.rambler.ru/epg/logo/000000138.png" group-title="Фильмы и сериалы",Киномикс
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://ntvplus.tv/files/image/27/19/89/yjy.png" group-title="Фильмы и сериалы",НТВ Сериал
@@ -600,9 +600,9 @@ https://flussonic.mkpnet.ru/tv-89530153f25733fe/video.m3u8
 #EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://prod-s.cdn-cf.philo.com/images/channel_logos/NIKHD/large_white.png" group-title="Детское",Nickelodeon HD
 https://bl.rutube.ru/livestream/e902c1a059034a1537430b2aa5aedece/index.m3u8?s=NacFR13PDg98RriXTMfTgg&e=2090448885&scheme=https
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/pingvin_lolo_obychnyy_0_0.png" group-title="Детское",Пингвин Лоло
-https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
+http://hls.peers.tv/streaming/pingvin_lolo/126/copy/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=81
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/logo_multilandia.png" group-title="Детское",Детский телеканал Мультимания
-https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
+http://hls.peers.tv/streaming/multimania/126/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=81
 #EXTINF:-1 tvg-id="tiji" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6c/Tiji_%282016%29.png/revision/latest?cb=20161211142908&path-prefix=ru" group-title="Детское",TiJi
 http://31.210.208.171:8080/tiji/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="gulli-girl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Gulli_Girl_%282018-%D0%BD.%D0%B2.%29.png" group-title="Детское",Gulli
@@ -622,7 +622,7 @@ https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/88/48/91/zup.png" group-title="Детское",BABY TIME
 https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/mamontenok_0.png" group-title="Детское",Мамонтёнок
-https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
+http://hls.peers.tv/streaming/mmntk/126/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=81
 #EXTINF:-1 tvg-id="jim-jam" tvg-logo="https://www.cableman.ru/sites/default/files/jimjam_0.png" group-title="Детское",JimJam
 http://stream.mcquack.net/150/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids" tvg-logo="https://www.cableman.ru/sites/default/files/ctc_kids.png" group-title="Детское",СТС Kids
@@ -660,6 +660,8 @@ http://s1.tv-nano.com/Luxury_rec/video.m3u8
 https://bl.rutube.ru/livestream/0064bd09060c8b8469fef19f269e8a8a/index.m3u8?s=fktGw8Kd9K9uMnU2M0Y7cw&e=2074123192&scheme=https
 #EXTINF:-1 tvg-id="muz1" tvg-logo="https://www.cableman.ru/sites/default/files/muzyka_pervogo_0.png" group-title="Музыкальное",Музыка Первого
 http://31.210.208.171:8080/muzika_pervogo/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/FonMusic.jpg" tvg-name="ТНТ MUSIC" group-title="Музыкальное",FON MUSIC HD
+http://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/channel_logos/logo_535f5e36ebf8c403a1001bde.png" group-title="Музыкальное",Russian MusicBox
 https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-id="1hd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/02/1HD_2_%28без_надписи%29.png/revision/latest?cb=20170301113719&path-prefix=ru" group-title="Музыкальное",1HD
@@ -683,13 +685,13 @@ http://stream.mcquack.net/92/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/d8/Логотип_радиостанции_Страна_FM.png/250px-Логотип_радиостанции_Страна_FM.png" group-title="Музыкальное",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e6/Bridge_%D0%A8%D0%BB%D1%8F%D0%B3%D0%B5%D1%80_%28%D1%81_2021%2C_%D1%8D%D1%84%D0%B8%D1%80%29.png/revision/latest/scale-to-width-down/250?cb=20220825150817&path-prefix=ru" group-title="Музыкальное",Bridge TV Шлягер
-https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
+http://hls.peers.tv/streaming/bridge_shlyager/16/copy/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=81
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/27/Bridge_Rock_%282023%2C_%D0%B1%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%8B%D0%B9%29.png/revision/latest/scale-to-width-down/250?cb=20230824100008&path-prefix=ru" group-title="Музыкальное",Bridge TV Rock
 http://31.210.208.171:8080/bridge_rock/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/8e/Bridge_TV_%D0%A4%D1%80%D1%8D%D1%88_%282021%2C_%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5_%D0%B1%D1%83%D0%BA%D0%B2%D1%8B%29.png/revision/latest/scale-to-width-down/250?cb=20210825152226&path-prefix=ru" group-title="Музыкальное",Bridge TV Фрэш
-https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
+http://hls.peers.tv/streaming/bridge_fresh_tv/16/copy/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=81
 #EXTINF:-1 tvg-logo="https://obob.tv/wp-content/uploads/2024/11/876544.png" group-title="Музыкальное",Bridge TV Этно
-https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
+http://hls.peers.tv/streaming/bridge_etno/16/copy/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=81
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSCaE8YBEEbra6RuARI6E1tIzbMzqqs-hKw&s" group-title="Музыкальное",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/europaplus.png" group-title="Музыкальное",Europa Plus TV
