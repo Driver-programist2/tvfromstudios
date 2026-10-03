@@ -257,7 +257,7 @@ https://fs.uplink.kz/telecafe/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="https://vits.tv/images/tvstation/russia/bollywood-hd.png" group-title="Фильмы и сериалы",Bollywood HD
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-logo="https://epg.iptvx.one/picons/hollywood-hd.png" group-title="Фильмы и сериалы",Hollywood HD
-http://46.32.176.50/HollywoodHD/index.m3u8
+http://stream.mcquack.net/268/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/pro100tv.png" group-title="Фильмы и сериалы",Про100 ТВ
 https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-id="kinomix-nastroykino" tvg-logo="https://tv.rambler.ru/epg/logo/000000138.png" group-title="Фильмы и сериалы",Киномикс
@@ -436,6 +436,8 @@ http://iptv.mega.net.ru:8888/Nauka_2_0/index.m3u8
 https://stream8.cinerama.uz/1266/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Big Planet HD
 http://185.195.184.30:8000/play/a0md/index.m3u8
+#EXTINF:-1 group-title="Познавательное" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10222/logo_256_1658737177.png",Открытый мир
+http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="bolshaya-aziya" tvg-logo="https://ramnet.ru/tv/logo/000003175.png" group-title="Познавательное",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.ts.m3u8
 #EXTINF:-1 tvg-id="soyuz" tvg-logo="https://ramnet.ru/tv/logo/000000255.png" group-title="Познавательное",Союз HD
@@ -663,7 +665,7 @@ https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png
 #EXTINF:-1 tvg-id="1hd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/02/1HD_2_%28без_надписи%29.png/revision/latest?cb=20170301113719&path-prefix=ru" group-title="Музыкальное",1HD
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-id="jar-ptica" tvg-logo="https://zhar-ptica.tv/sites/default/files/logo.png" group-title="Музыкальное",Жар Птица
-https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=CoWfzsQEwLSg-bBd13tPiQ&e=2069154902&scheme=https
+https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-logo="https://bridgemedia.ru/s/uploads/bridge-tv-logo-1477995292.png" group-title="Музыкальное",Bridge TV
 http://31.210.208.171:8080/bridge/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-logo="https://static.okko.tv/images/v4/d89aa07e-652a-4f33-bd94-ed1346bc368a" group-title="Музыкальное",Bridge TV Русский хит
