@@ -144,6 +144,8 @@ https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
 http://stream.mcquack.net/266/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/Без%20фона.png" group-title="Фильмы и сериалы",Киноман
 http://31.210.208.171:8080/kinoman/index.m3u8?token=+W2MSER
+#EXTINF:-1, group-title="Фильмы и сериалы",DetectiveJam HD
+88.218.242.237:8001/DetectiveJam_HD
 #EXTINF:-1 tvg-id="kino24" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a6/Kino_24.png/revision/latest?cb=20160719101653&path-prefix=ru" group-title="Фильмы и сериалы",Kino24
 http://hls.peers.tv/streaming/kino24/126/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=81
 #EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://epg.iptvx.one/picons/amedia-hit.png" group-title="Фильмы и сериалы",Amedia Hit
@@ -407,7 +409,7 @@ https://stream8.cinerama.uz/1423/mono.m3u8
 #EXTINF:-1 tvg-id="perviy-vegetarianskiy" tvg-logo="https://karnei4.github.io/convert/logo-z/63f3bfdb7b7a0a415d34cd267ab0bc24.png" group-title="Развлекательное",Первый вегетарианский
 https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-id="eda" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032929595611_57.png" group-title="Развлекательное",Еда
-https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
+http://88.218.242.237:8001/eda
 #EXTINF:-1 tvg-id="teledom" tvg-logo="https://vits.tv/images/tvstation/russia/teledom.png" group-title="Развлекательное",ТелеДом
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="zhara" tvg-logo="https://podarokangelu.com/uploads/smi/logo/63052947be0b9424298005.png" group-title="Музыкальное",ЖАРА
