@@ -209,8 +209,8 @@ http://176.118.197.101/HCT/index.m3u8
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 tvg-id="russliy-detektiv" tvg-logo="https://rudetective.tv/favIcons/android-chrome-192x192.png" group-title="Фильмы и сериалы",Русский детектив
 https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
-#EXTINF:-1 tvg-id="saphir" tvg-logo="https://mt.media/upload/iblock/e1d/e1d844cdede445c8022f5262dd35cbfd.png" group-title="Фильмы и сериалы",САПФИР HD
-http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
+#EXTINF:-1 tvg-id="saphir" tvg-logo="https://mt.media/upload/iblock/e1d/e1d844cdede445c8022f5262dd35cbfd.png" group-title="Фильмы и сериалы",САПФИР
+http://195.64.140.147:10056/56
 #EXTINF:-1 tvg-id="kineko" tvg-logo="https://mt.media/upload/iblock/244/244d1ac99a98645f85a9152a6fc0e0e4.png" group-title="Фильмы и сериалы",Кинеко HD
 http://31.210.208.171:8080/kineko/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://ramnet.ru/tv/logo/000000321.png" group-title="Развлекательное",ТНТ4 HD
