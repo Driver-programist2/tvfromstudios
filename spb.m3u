@@ -1,14 +1,14 @@
 #EXTM3U tvg-url="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 #PLAYLIST
-#EXTINF:-1 tvg-name="Пятый канал" tvg-id="1tv" tvg-logo="https://free-png.ru/wp-content/uploads/2020/09/Pervyj-kanal-01.png" group-title="Общероссийские",Первый канал (Санкт-Петербург)
+#EXTINF:-1 tvg-name="Первый канал" tvg-id="1tv" tvg-logo="https://free-png.ru/wp-content/uploads/2020/09/Pervyj-kanal-01.png" group-title="Общероссийские",Первый канал (Санкт-Петербург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:-1 tvg-name="Россия 1" tvg-id="Russia1" tvg-logo="https://ntvplus.tv/files/image/88/61/42/v4u.png" group-title="Общероссийские",Россия 1 HD (Санкт-Петербург)
 https://live-gtrk.smotrim.ru/vgtrk/spb/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-name="Матч ТВ (Санкт-Петербург)" tvg-id="match-tv" tvg-logo="https://toplogos.ru/images/logo-match-tv.png" group-title="Общероссийские",МАТЧ! (Санкт-Петербург)
+#EXTINF:-1 tvg-name="Матч ТВ" tvg-id="match-tv" tvg-logo="https://toplogos.ru/images/logo-match-tv.png" group-title="Общероссийские",МАТЧ! (Санкт-Петербург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://ntvplus.tv/files/image/88/63/54/fl9.png" group-title="Общероссийские",НТВ (Санкт-Петербург)
+#EXTINF:-1 tvg-name="НТВ" tvg-id="ntv" tvg-logo="https://ntvplus.tv/files/image/88/63/54/fl9.png" group-title="Общероссийские",НТВ (Санкт-Петербург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:-1 tvg-name="Пятый канал" tvg-id="5-tv" tvg-logo="https://www.cableman.ru/sites/default/files/5_kanal_logo_RGB_RED.png" group-title="Общероссийские",Пятый канал (Санкт-Петербург)
@@ -27,13 +27,13 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 #EXTINF:-1 tvg-name="ТВЦ" tvg-id="tvc" tvg-logo="https://tv.rambler.ru/epg/logo/000000114.png" group-title="Общероссийские",ТВЦ (Санкт-Петербург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
-#EXTINF:-1 tvg-id="rentv" tvg-logo="https://iks-online.net/storage/2018/07/REN-TV-HD.png" group-title="Общероссийские",Рен ТВ (Санкт-Петербург)
+#EXTINF:-1 tvg-name="Рен ТВ" tvg-id="rentv" tvg-logo="https://iks-online.net/storage/2018/07/REN-TV-HD.png" group-title="Общероссийские",Рен ТВ (Санкт-Петербург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_SPBR/variant.m3u8
 #EXTINF:-1 tvg-id="spastv" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-spas.jpg" group-title="Общероссийские",СПАС
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
-#EXTINF:-1 tvg-id="sts" tvg-logo="https://logo-teka.com/wp-content/uploads/2025/09/sts-telekanal-logo.png" group-title="Общероссийские",СТС (Санкт-Петербург)
+#EXTINF:-1 tvg-name="СТС" tvg-id="sts" tvg-logo="https://logo-teka.com/wp-content/uploads/2025/09/sts-telekanal-logo.png" group-title="Общероссийские",СТС (Санкт-Петербург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_STS_SPBR/variant.m3u8
 #EXTINF:-1 tvg-name="Домашний" tvg-id="domashniy" tvg-logo="https://ramnet.ru/tv/logo/000000051.png" group-title="Общероссийские",Домашний (Санкт-Петербург)
@@ -48,10 +48,10 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 #EXTINF:-1 tvg-name="Звезда" tvg-id="tvzvezga" tvg-logo="https://ramnet.ru/tv/logo/000000056.png" group-title="Общероссийские",Звезда (Санкт-Петербург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
-#EXTINF:-1 tvg-id="mir" tvg-logo="https://omg56.ru/wp-content/uploads/2024/02/мир-1000-600.png" group-title="Общероссийские",МИР (Санкт-Петербург)
+#EXTINF:-1 tvg-name="МИР" tvg-id="mir" tvg-logo="https://omg56.ru/wp-content/uploads/2024/02/мир-1000-600.png" group-title="Общероссийские",МИР (Санкт-Петербург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_MIR/variant.m3u8
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_tnt.png" group-title="Общероссийские",ТНТ (Санкт-Петербург)
+#EXTINF:-1 tvg-name="ТНТ" tvg-id="tnt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_tnt.png" group-title="Общероссийские",ТНТ (Санкт-Петербург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:-1 tvg-id="muz-tv" tvg-logo="https://media1.ru/upload/iblock/5e5/jjc0qmvqlmf9xco8ju3gmqgxhdt8y3xr/logo_efir_01.png" group-title="Общероссийские",МУЗ ТВ
