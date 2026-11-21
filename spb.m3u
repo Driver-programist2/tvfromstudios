@@ -14,8 +14,9 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:-1 tvg-name="Пятый канал" tvg-id="5-tv" tvg-logo="https://www.cableman.ru/sites/default/files/5_kanal_logo_RGB_RED.png" group-title="Общероссийские",Пятый канал (Санкт-Петербург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
-#EXTINF:-1 tvg-id="russia-k" tvg-logo="https://images.iptv.rt.ru/images/d21hn98mifec0fdjhp9g.png" group-title="Общероссийские",Россия К HD
-https://live-gtrk.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-name="Россия К" tvg-id="russia-k" tvg-logo="https://images.iptv.rt.ru/images/d21hn98mifec0fdjhp9g.png" group-title="Общероссийские",Россия К (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 #EXTINF:-1 tvg-name="Россия 24" tvg-id="russia24" tvg-logo="https://ramnet.ru/tv/logo/000000198.png" group-title="Общероссийские",Россия 24 (Санкт-Петербург)
 https://live-gtrk.smotrim.ru/vgtrk/spb/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-name="Карусель" tvg-id="karosel" tvg-logo="https://tv.rambler.ru/epg/logo/000000157.png" group-title="Общероссийские",Карусель (Санкт-Петербург)
