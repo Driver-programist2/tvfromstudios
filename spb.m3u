@@ -699,7 +699,7 @@ https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-tv-hd/index.fmp4.m3u8?pa
 #EXTINF:-1 tvg-logo="https://static.okko.tv/images/v4/d89aa07e-652a-4f33-bd94-ed1346bc368a" group-title="Музыкальное",Bridge TV Русский хит
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-rus-hit-hd/index.fmp4.m3u8?partnerID=OpenLink
 #EXTINF:-1 tvg-logo="https://ip.ontivi.net/img/bridge-classic.png" group-title="Музыкальное",Bridge TV Classic
-https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-classic-hd/tracks-v2/index.fmp4.m3u8?partnerID=OpenLink
+https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-classic-hd/index.fmp4.m3u8?partnerID=OpenLink
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsmUBiGl25GKzw6C4lIHoogR_vDKx0qfJYIA&s" group-title="Музыкальное" audio-track="rus",Mezzo
 https://live-3.otcnet.ru/Mezzo/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://smotret-tv.live/images/bridge-tv-hits.png" group-title="Музыкальное",Bridge TV Hits
